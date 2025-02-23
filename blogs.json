@@ -1,5 +1,105 @@
 [
-  { "id": 1, "title": "Top Indian Website Development Companies for Custom Website", "content": "This is the content of Blog 1." },
+    { 
+        "id": 1, 
+        "title": "Top Indian Website Development Companies for Custom Websites", 
+        "content": "<p>In today's digital-first world, businesses are realizing the importance of having a custom-built website to establish a unique online presence. A custom website can help companies stand out in a competitive market by reflecting their brand, enhancing user experience, and offering tailored functionalities. India has emerged as one of the top global hubs for website development services, thanks to its pool of skilled developers, cost-effective solutions, and state-of-the-art technologies. In this article, we’ll explore some of the top Indian website development companies specializing in custom websites.</p>" +
+            "<h2>1. Tata Consultancy Services (TCS)</h2>" +
+            "<p><strong>Website:</strong> <a href='https://www.tcs.com' target='_blank'>www.tcs.com</a></p>" +
+            "<p>TCS is one of the largest IT services and consulting firms in India and globally. With decades of experience, TCS has a rich portfolio in custom website development, catering to clients from multiple industries. Their web development services are robust, highly scalable, and tailored to meet specific business needs. From design to deployment, TCS ensures top-notch quality and customer satisfaction.</p>" +
+            "<h3>Key Strengths:</h3>" +
+            "<ul>" +
+                "<li>Enterprise-grade solutions</li>" +
+                "<li>Expertise in various industries including banking, healthcare, and retail</li>" +
+                "<li>Global delivery network</li>" +
+            "</ul>" +
+            "<h2>2. Infosys</h2>" +
+            "<p><strong>Website:</strong> <a href='https://www.infosys.com' target='_blank'>www.infosys.com</a></p>" +
+            "<p>Infosys is another giant in the IT industry known for its high-quality web development services. Their custom websites are not only designed to be aesthetically pleasing but also highly functional and optimized for better performance. Infosys works with a wide range of technologies, offering dynamic, mobile-friendly websites, e-commerce platforms, and digital transformation services.</p>" +
+            "<h3>Key Strengths:</h3>" +
+            "<ul>" +
+                "<li>Rich experience in delivering large-scale web solutions</li>" +
+                "<li>Focus on innovation and modern technologies like AI and machine learning</li>" +
+                "<li>Expertise in custom website development across industries</li>" +
+            "</ul>" +
+            "<h2>3. Mindtree</h2>" +
+            "<p><strong>Website:</strong> <a href='https://www.mindtree.com' target='_blank'>www.mindtree.com</a></p>" +
+            "<p>Mindtree offers specialized website development services, focusing on custom website design and development for small, medium, and large businesses. Their developers are proficient in HTML5, CSS3, JavaScript, and a range of CMS platforms like WordPress, Joomla, and Drupal. Mindtree is known for creating responsive and highly interactive websites, making it a top choice for businesses looking for tailored solutions.</p>" +
+            "<h3>Key Strengths:</h3>" +
+            "<ul>" +
+                "<li>Custom web solutions for e-commerce, content management, and portals</li>" +
+                "<li>Strong UX/UI design practices</li>" +
+                "<li>Expertise in cloud-based website development</li>" +
+            "</ul>" +
+            "<h2>4. Cognizant Technology Solutions</h2>" +
+            "<p><strong>Website:</strong> <a href='https://www.cognizant.com' target='_blank'>www.cognizant.com</a></p>" +
+            "<p>Cognizant is a global leader in IT services, providing businesses with a comprehensive suite of digital solutions. Their custom web development services include responsive design, website optimization, content management, and integration with third-party tools. The company focuses on delivering websites that are secure, scalable, and high-performance, making them a top contender for enterprises looking for custom solutions.</p>" +
+            "<h3>Key Strengths:</h3>" +
+            "<ul>" +
+                "<li>Highly scalable solutions for businesses of all sizes</li>" +
+                "<li>Strong focus on web security and compliance</li>" +
+                "<li>Expertise in CMS-based and custom web solutions</li>" +
+            "</ul>" +
+            "<h2>5. Hyperlink Infosystem</h2>" +
+            "<p><strong>Website:</strong> <a href='https://www.hyperlinkinfosystem.com' target='_blank'>www.hyperlinkinfosystem.com</a></p>" +
+            "<p>Hyperlink Infosystem is an award-winning Indian web development company with a specialization in custom website development. With a team of highly skilled developers, they create highly responsive and feature-rich websites. Whether you need a content-heavy website, an e-commerce platform, or a complex web application, Hyperlink Infosystem offers a wide range of services tailored to your business needs.</p>" +
+            "<h3>Key Strengths:</h3>" +
+            "<ul>" +
+                "<li>Specialization in mobile-responsive websites</li>" +
+                "<li>Cost-effective and quality-driven solutions</li>" +
+                "<li>Expertise in custom web applications, e-commerce, and enterprise solutions</li>" +
+            "</ul>" +
+            "<h2>6. Zensar Technologies</h2>" +
+            "<p><strong>Website:</strong> <a href='https://www.zensar.com' target='_blank'>www.zensar.com</a></p>" +
+            "<p>Zensar Technologies focuses on providing end-to-end digital transformation solutions, including custom website development. They create high-quality, dynamic websites that are optimized for performance, SEO, and user experience. Zensar’s team is proficient in the latest web development technologies, including Angular, React, Node.js, and Laravel.</p>" +
+            "<h3>Key Strengths:</h3>" +
+            "<ul>" +
+                "<li>Agile development practices</li>" +
+                "<li>Focus on user-centric designs and customer satisfaction</li>" +
+                "<li>Strong focus on emerging technologies like AI and machine learning</li>" +
+            "</ul>" +
+            "<h2>7. Bacancy Technology</h2>" +
+            "<p><strong>Website:</strong> <a href='https://www.bacancytechnology.com' target='_blank'>www.bacancytechnology.com</a></p>" +
+            "<p>Bacancy Technology is a top Indian website development company that provides high-quality, scalable, and flexible custom web solutions. Whether it’s an e-commerce website, an enterprise solution, or a content-rich platform, Bacancy's expert team of developers ensures that the project is delivered on time and meets client specifications. The company works on various frameworks like Laravel, Django, and Angular.</p>" +
+            "<h3>Key Strengths:</h3>" +
+            "<ul>" +
+                "<li>Expertise in full-stack development</li>" +
+                "<li>Fast and scalable custom web applications</li>" +
+                "<li>Cost-effective services for small and medium businesses</li>" +
+            "</ul>" +
+            "<h2>8. Octal IT Solution</h2>" +
+            "<p><strong>Website:</strong> <a href='https://www.octalitsolutions.com' target='_blank'>www.octalitsolutions.com</a></p>" +
+            "<p>Octal IT Solutions has been a trusted partner for custom website development for several years. The company focuses on delivering cutting-edge solutions using modern frameworks like React, Vue.js, and Angular. Octal’s custom web development services are ideal for businesses that require unique, interactive, and high-performance websites.</p>" +
+            "<h3>Key Strengths:</h3>" +
+            "<ul>" +
+                "<li>High-quality UI/UX design</li>" +
+                "<li>Agile development for fast delivery</li>" +
+                "<li>Expertise in custom CMS solutions</li>" +
+            "</ul>" +
+            "<h2>9. Hidden Brains</h2>" +
+            "<p><strong>Website:</strong> <a href='https://www.hiddenbrains.com' target='_blank'>www.hiddenbrains.com</a></p>" +
+            "<p>Hidden Brains is a reputed name in the Indian website development industry, offering custom web development services tailored to business needs. With a keen focus on responsive design and performance optimization, Hidden Brains creates websites that are both visually appealing and technically superior.</p>" +
+            "<h3>Key Strengths:</h3>" +
+            "<ul>" +
+                "<li>Expertise in custom enterprise websites</li>" +
+                "<li>Strong focus on UI/UX design</li>" +
+                "<li>Competitive pricing and timely delivery</li>" +
+            "</ul>" +
+            "<h2>10. Webdura Technologies</h2>" +
+            "<p><strong>Website:</strong> <a href='https://www.webdura.com' target='_blank'>www.webdura.com</a></p>" +
+            "<p>Webdura Technologies offers specialized services in custom website design and development. Their team of designers and developers work collaboratively to create personalized websites that meet client requirements. They provide services ranging from web portal development to custom e-commerce solutions.</p>" +
+            "<h3>Key Strengths:</h3>" +
+            "<ul>" +
+                "<li>Expertise in custom WordPress and e-commerce solutions</li>" +
+                "<li>Agile development process</li>" +
+                "<li>Proven track record of successful web projects</li>" +
+            "</ul>" +
+            "<h2>Conclusion</h2>" +
+            "<p>India has become a hotbed for website development companies, offering top-tier custom website development services at competitive prices. Whether you’re a startup, a medium-sized business, or a large enterprise, these Indian website development companies provide scalable, secure, and user-friendly custom web solutions that can drive growth and enhance your online presence.</p>" +
+            "<p>Each of these companies has its unique strengths, so it’s important to choose one that aligns with your specific needs, budget, and vision for the future. Consider factors like industry experience, technology expertise, design aesthetics, and customer reviews when making your decision.</p>",
+        "date": "October 25, 2025", 
+        "image": "link-to-image1.jpg", 
+        "author": "Author 1" 
+    },
   { "id": 2, "title": "Blog 2", "content": "This is the content of Blog 2." },
   { "id": 3, "title": "Blog 3", "content": "This is the content of Blog 3." }
 ]
