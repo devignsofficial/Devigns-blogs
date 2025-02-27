@@ -54,5 +54,69 @@
         "image": "https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg",
         "content": "<p>This is the content of the seventh blog post.</p>",
         "author": "Sameer Singh"
+    },
+    {
+        "id": 8,
+        "title": "Sixth Blog Post",
+        "date": "February 28, 2025",
+        "image": "https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg",
+        "content": "<p>This is the content of the sixth blog post.</p>",
+        "author": "Gargee Pawar"
+    },
+    {
+        "id": 9,
+        "title": "Seventh Blog Post",
+        "date": "March 01, 2025",
+        "image": "https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg",
+        "content": "<p>This is the content of the seventh blog post.</p>",
+        "author": "Sameer Singh"
+    },
+    {
+        "id": 10,
+        "title": "Sixth Blog Post",
+        "date": "February 28, 2025",
+        "image": "https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg",
+        "content": "<p>This is the content of the sixth blog post.</p>",
+        "author": "Gargee Pawar"
+    },
+    {
+        "id": 11,
+        "title": "Seventh Blog Post",
+        "date": "March 01, 2025",
+        "image": "https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg",
+        "content": "<p>This is the content of the seventh blog post.</p>",
+        "author": "Sameer Singh"
+    },
+    {
+        "id": 12,
+        "title": "Sixth Blog Post",
+        "date": "February 28, 2025",
+        "image": "https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg",
+        "content": "<p>This is the content of the sixth blog post.</p>",
+        "author": "Gargee Pawar"
+    },
+    {
+        "id": 13,
+        "title": "Seventh Blog Post",
+        "date": "March 01, 2025",
+        "image": "https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg",
+        "content": "<p>This is the content of the seventh blog post.</p>",
+        "author": "Sameer Singh"
+    },
+    {
+        "id": 14,
+        "title": "Sixth Blog Post",
+        "date": "February 28, 2025",
+        "image": "https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg",
+        "content": "<p>This is the content of the sixth blog post.</p>",
+        "author": "Gargee Pawar"
+    },
+    {
+        "id": 15,
+        "title": "Seventh Blog Post",
+        "date": "March 01, 2025",
+        "image": "https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg",
+        "content": "<p>This is the content of the seventh blog post.</p>",
+        "author": "Sameer Singh"
     }
 ]
