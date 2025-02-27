@@ -19,7 +19,7 @@
         "id": 3,
         "title": "Third Blog Post",
         "date": "February 25, 2025",
-        "image": "https://media.istockphoto.com/id/1352603244/photo/shot-of-an-unrecognizable-businessman-working-on-his-laptop-in-the-office.jpg",
+        "image": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg",
         "content": "<p>This is the content of the third blog post.</p>",
         "author": "Sameer Singh"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "title": "Fourth Blog Post",
         "date": "February 26, 2025",
-        "image": "https://media.istockphoto.com/id/1408387701/photo/social-media-marketing-digitally-generated-image-engagement.jpg",
+        "image": "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg",
         "content": "<p>This is the content of the fourth blog post.</p>",
         "author": "Gargee Pawar"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "title": "Fifth Blog Post",
         "date": "February 27, 2025",
-        "image": "https://media.istockphoto.com/id/939501750/photo/portrait-of-young-attractive-woman-using-tablet.jpg",
+        "image": "https://images.pexels.com/photos/256381/pexels-photo-256381.jpeg",
         "content": "<p>This is the content of the fifth blog post.</p>",
         "author": "Sameer Singh"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "title": "Sixth Blog Post",
         "date": "February 28, 2025",
-        "image": "https://media.istockphoto.com/id/1477183258/photo/woman-holding-ai-icons-with-laptop.jpg",
+        "image": "https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg",
         "content": "<p>This is the content of the sixth blog post.</p>",
         "author": "Gargee Pawar"
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "title": "Seventh Blog Post",
         "date": "March 01, 2025",
-        "image": "https://media.istockphoto.com/id/1241881284/photo/hands-of-cook-photographing-mexican-tacos.jpg",
+        "image": "https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg",
         "content": "<p>This is the content of the seventh blog post.</p>",
         "author": "Sameer Singh"
     }
